@@ -1,0 +1,74 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="vaadinTest1:war exploded">
+    <output-path>$PROJECT_DIR$/target/vaadinTest1-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="vaadinTest1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-server:7.4.6" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-sass-compiler:0.9.12" />
+          <element id="library" level="project" name="Maven: com.vaadin.external.flute:flute:1.3.0.gg2" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-shared:7.4.6" />
+          <element id="library" level="project" name="Maven: com.vaadin.external.streamhtmlparser:streamhtmlparser-jsilver:0.0.10.vaadin1" />
+          <element id="library" level="project" name="Maven: com.vaadin.external.google:guava:16.0.1.vaadin1" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.8.1" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-push:7.4.6" />
+          <element id="library" level="project" name="Maven: com.vaadin.external.atmosphere:atmosphere-runtime:2.2.4.vaadin5" />
+          <element id="library" level="project" name="Maven: com.vaadin.external.slf4j:vaadin-slf4j-jdk14:1.6.1" />
+          <element id="library" level="project" name="Maven: org.w3c.css:sac:1.3" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.1" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.3" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.4.01" />
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin-themes:7.4.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.1.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.1.2.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.1.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.1.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.1.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.2.5.RELEASE" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.39" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.vaadin.addons:contextmenu:4.5" />
+          <element id="library" level="project" name="Maven: net.sf.jasperreports:jasperreports:6.1.0" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.0" />
+          <element id="library" level="project" name="Maven: commons-digester:commons-digester:2.1" />
+          <element id="library" level="project" name="Maven: com.lowagie:itext:2.1.7.js2" />
+          <element id="library" level="project" name="Maven: bouncycastle:bcmail-jdk14:138" />
+          <element id="library" level="project" name="Maven: bouncycastle:bcprov-jdk14:138" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bctsp-jdk14:1.38" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk14:1.38" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcmail-jdk14:1.38" />
+          <element id="library" level="project" name="Maven: jfree:jcommon:1.0.15" />
+          <element id="library" level="project" name="Maven: jfree:jfreechart:1.0.12" />
+          <element id="library" level="project" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.3.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.castor:castor-xml:1.3.3" />
+          <element id="library" level="project" name="Maven: org.codehaus.castor:castor-core:1.3.3" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: stax:stax:1.2.0" />
+          <element id="library" level="project" name="Maven: stax:stax-api:1.0.1" />
+          <element id="library" level="project" name="Maven: javax.xml.stream:stax-api:1.0-2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.1.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.1.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.1.4" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:4.5.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-common:4.5.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queryparser:4.5.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queries:4.5.1" />
+          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-sandbox:4.5.1" />
+          <element id="library" level="project" name="Maven: jakarta-regexp:jakarta-regexp:1.4" />
+          <element id="library" level="project" name="Maven: org.olap4j:olap4j:0.9.7.309-JS-3" />
+          <element id="library" level="project" name="Maven: com.google.zxing:core:2.3.0" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/vaadinTest1-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="vaadinTest1/web/Web" />
+    </root>
+  </artifact>
+</component>
